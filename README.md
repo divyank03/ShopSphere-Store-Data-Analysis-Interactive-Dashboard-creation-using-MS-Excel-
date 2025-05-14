@@ -1,7 +1,7 @@
-# ShopSphere-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+# ShopSphere-Store-Data-Analysis (Interactive Dashboard creation using Microsoft Excel)
 
 ## Project Objective
-The ShopSphere Store wants to create an annual sales report for 2024. So that, the owner of the ShopSphere Store can understand their customers and grow more sales in 2025 & 2026.
+To develop a comprehensive annual sales report for 2024, enabling ShopSphere Store to understand customer behavior and identify opportunities to increase sales in 2025 and 2026.
 
 ## Dataset used
 <a href="https://github.com/divyank03/ShopSphere-Store-Data-Analysis-Interactive-Dashboard-creation-using-MS-Excel-/blob/main/ShopSphere%20Data%20Analysis.xlsx"> Dataset </a>
@@ -11,7 +11,7 @@ The ShopSphere Store wants to create an annual sales report for 2024. So that, t
 - Which month got the highest sales and orders?
 - Who purchased more - Men or Women?
 - What are different order status in 2024?
-- List top 5 states contributingto the sales?
+- List top 5 states contributing to the sales?
 - Relation between age and gender based on number of orders.
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
@@ -19,13 +19,17 @@ The ShopSphere Store wants to create an annual sales report for 2024. So that, t
 - Dashboard Interaction <a href="https://github.com/divyank03/ShopSphere-Store-Data-Analysis-Interactive-Dashboard-creation-using-MS-Excel-/blob/main/ShopSphere%20Data%20Analysis%20-%20Dashbaord.png"> View Dashboard </a>
 
 ## Process
-- Verify data for any missing values and anomalies, and sort out the same.
+- Performed data cleaning and preprocessing to address missing values and ensure consistency in data types and formats.
+- Created pivot tables aligned with business questions and KPIs.
+- Developed an interactive dashboard using pivot charts and slicers for dynamic filtering and visualization.
+- Verify data for any missing values and anomalies and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
 ![ShopSphere Data Analysis - Dashbaord](https://github.com/user-attachments/assets/87be7aeb-69aa-47ef-99e4-1b952c634153)
+
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
