@@ -4,7 +4,7 @@
 The ShopSphere Store wants to create an annual sales report for 2024. So that, the owner of the ShopSphere Store can understand their customers and grow more sales in 2025 & 2026.
 
 ## Dataset used
-![ShopSphere Data Analysis - Dashbaord](https://github.com/user-attachments/assets/87be7aeb-69aa-47ef-99e4-1b952c634153)
+
 
 ## Questions (KPIs)
 - Compare the sales and orders using single chart.
@@ -25,7 +25,7 @@ The ShopSphere Store wants to create an annual sales report for 2024. So that, t
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-
+![ShopSphere Data Analysis - Dashbaord](https://github.com/user-attachments/assets/87be7aeb-69aa-47ef-99e4-1b952c634153)
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
