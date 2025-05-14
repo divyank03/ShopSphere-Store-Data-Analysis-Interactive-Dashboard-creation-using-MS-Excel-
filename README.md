@@ -18,7 +18,7 @@ The ShopSphere Store wants to create an annual sales report for 2024. So that, t
 - Percentage of Total Orders delivered.
 - Dashboard Interaction <a href="https://github.com/divyank03/ShopSphere-Store-Data-Analysis-Interactive-Dashboard-creation-using-MS-Excel-/blob/main/ShopSphere%20Data%20Analysis%20-%20Dashbaord.png"> View Dashboard </a>
 
-##Process
+## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
