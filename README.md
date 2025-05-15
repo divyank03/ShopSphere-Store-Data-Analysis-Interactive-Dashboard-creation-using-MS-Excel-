@@ -1,4 +1,4 @@
-# ShopSphere-Store-Data-Analysis (Interactive Dashboard creation using Microsoft Excel)
+# ShopSphere-Store-Data-Analysis using Microsoft Excel
 
 ## Project Objective
 To develop a comprehensive annual sales report for 2024, enabling ShopSphere Store to understand customer behavior and identify opportunities to increase sales in 2025 and 2026.
